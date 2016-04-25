@@ -1,0 +1,4 @@
+https://wiki.ubuntu.com.cn/%E5%AD%97%E4%BD%93
+http://www.mycode.net.cn/platform/741.html
+
+unpack the targz and move the *.ttf to ~/.font then run mkfontscale && mkfontdir && fc-cache -fv
