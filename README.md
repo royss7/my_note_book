@@ -1,2 +1,2 @@
-# my_note_book
-new ideas or tech
+# note book
+new ideas or techs
