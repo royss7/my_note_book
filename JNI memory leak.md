@@ -1,4 +1,4 @@
-## JNI memory leak check
+## JNI memory leak detector
 
 ---
 tool: valgrind
